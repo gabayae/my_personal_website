@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yaé Ulrich Gaba
+title: Yaé Ulrich Gaba, PhD
 
 # Is this the primary user of the site?
 superuser: true
